@@ -9,7 +9,7 @@
     <version>4.3.6-SNAPSHOT</version>
 
     <name>AntPathMatcher from Spring</name>
-    <description>AntPathMatcher, borrowed from Spring (4.3.6)</description>
+    <description>AntPathMatcher, borrowed from Spring (4.3)</description>
 
     <inceptionYear>2017</inceptionYear>
 
